@@ -15,6 +15,7 @@
 // along with the go-BitRay library. If not, see <http://www.gnu.org/licenses/>.
 
 // Package compiler wraps the Solidity and Vyper compiler executables (solc; vyper).
+
 package compiler
 
 import (
