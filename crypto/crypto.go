@@ -30,9 +30,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/BitRay-project/go-BitRay/common"
+	"github.com/BitRay-project/go-BitRay/common/math"
+	"github.com/BitRay-project/go-BitRay/rlp"
 	"golang.org/x/crypto/sha3"
 )
 
