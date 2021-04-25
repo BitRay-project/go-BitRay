@@ -29,8 +29,7 @@ var MainnetBootnodes = []string{
 const dnsPrefix = " "
 
 // KnownDNSNetwork returns the address of a public DNS-based node list for the given
-// genesis hash and protocol. See https://github.com/ethereum/discv4-dns-lists for more
-// information.
+// genesis hash and protocol. 
 func KnownDNSNetwork(genesis common.Hash, protocol string) string {
 	var net string
 	switch genesis {
