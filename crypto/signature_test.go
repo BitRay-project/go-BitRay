@@ -22,9 +22,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
+	"github.com/BitRay-project/go-BitRay/common"
+	"github.com/BitRay-project/go-BitRay/common/hexutil"
+	"github.com/BitRay-project/go-BitRay/common/math"
 )
 
 var (
