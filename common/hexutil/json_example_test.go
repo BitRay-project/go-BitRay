@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/BitRay-project/go-BitRay/common/hexutil"
 )
 
 type MyType [5]byte
